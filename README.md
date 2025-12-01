@@ -1,0 +1,1 @@
+This project builds an SVM-based machine learning model that detects Parkinson’s Disease using vocal biomarkers. It preprocesses the data, trains an optimized classifier, and provides accurate predictions along with evaluation metrics.
